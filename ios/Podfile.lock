@@ -1,0 +1,48 @@
+PODS:
+  - cryptography_flutter (0.2.0):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_keychain (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Toast (4.1.1)
+
+DEPENDENCIES:
+  - cryptography_flutter (from `.symlinks/plugins/cryptography_flutter/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_keychain (from `.symlinks/plugins/flutter_keychain/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - Toast
+
+EXTERNAL SOURCES:
+  cryptography_flutter:
+    :path: ".symlinks/plugins/cryptography_flutter/ios"
+  Flutter:
+    :path: Flutter
+  flutter_keychain:
+    :path: ".symlinks/plugins/flutter_keychain/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+
+SPEC CHECKSUMS:
+  cryptography_flutter: 381bdacc984abcfbe3ca45ef7c76566ff061614c
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_keychain: 01aabf894ffe8b01adfda1d9df21c210c1b4b452
+  fluttertoast: e9a18c7be5413da53898f660530c56f35edfba9c
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+  Toast: 1f5ea13423a1e6674c4abdac5be53587ae481c4e
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
